@@ -1,0 +1,6 @@
+{
+  "name": "Motostrada Bikes & Gears - Motorcycle Loan System & AI Partner",
+  "description": "Motorcycle Loan & Sales Quotation System for CFMOTO bikes with real-time financial calculator, loan application processing, and conversational AI partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
